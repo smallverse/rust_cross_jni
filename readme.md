@@ -1,3 +1,5 @@
+# [Rust Jni](https://github.com/smallverse/rust_practice/tree/main/cross_platform_lib_jni)
+
 ## javah 生成头c++文件(jdk 1.8 可用)
 > main/java 下执行
 ```shell
