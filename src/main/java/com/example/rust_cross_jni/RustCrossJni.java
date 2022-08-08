@@ -19,7 +19,7 @@ public class RustCrossJni {
         int sum = RustCrossJni.add(1, 1);
         System.out.println(sum);
 
-        String eq = RustCrossJni.gen_quaternion_str(10, 0, 159788, 253914);
+        String eq = RustCrossJni.gen_quaternion_str(10, 0, 1, 1);
         System.out.println(eq);
     }
 }
